@@ -1,0 +1,7 @@
+1 (Gliwice 10.0 5.50 Zabrze 18.9 7.80 Katowice 14.3 5.50 Sosnowiec)
+2 (Sosnowiec 14.3 5.50 Katowice 18.9 7.80 Zabrze 10.0 5.50 Gliwice)
+3 (Gliwice 71.4 15.00 Opole 123.1 100.00 Wroclaw)
+4 (Wroclaw 123.1 100.00 Opole 71.4 15.00 Gliwice)
+5 (Gliwice 12.0 30.40 Bytom 15.2 92.30 Sosnowiec)
+6 (Wroclaw 20.3 13.70 Nieborowice)
+7 (Nieborowice 20.3 13.70 Wroclaw)

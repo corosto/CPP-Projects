@@ -1,0 +1,4 @@
+D:\projekty\zadanie programistyczne\Debug\zadanie programistyczne.exe
+D:\projekty\zadanie programistyczne\Debug\zadanie programistyczne.pdb
+D:\projekty\projekt_autobus\Debug\zadanie programistyczne.exe
+D:\projekty\projekt_autobus\Debug\zadanie programistyczne.pdb
