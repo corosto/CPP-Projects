@@ -1,5 +1,5 @@
-# Projekty_CPP
+# C++ Projects
 
-projekt autobus - projekt na zajęcia programistyczne z 1 semestru, wybierający za użytkownika autobusy aby mógł się dostać z punktu A do punktu B.
+projekt autobus - project for programming classes from the 1st semester, choosing buses for the user to get from point A to point B.
 
-mój wektor - projekt na zajęcia programistyczne z 3 semestru, jest to moja implementacja C++'owego wektora.
+mój wektor - project for programming classes from the 3rd semester, it is my implementation of a C++ vector.
